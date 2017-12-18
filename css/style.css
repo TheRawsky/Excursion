@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/* CSS Document */
+* {
+	background: black;
+}
+.linktoApp {
+	color: aquamarine;
+	font-size: 16px;
+	text-align: center;
+}
+
+.headline1 {
+	font-family: Verdana;
+	font-weight: normal;
+	font-size: 50px;
+	color: white;
+	text-align: center;
+}
