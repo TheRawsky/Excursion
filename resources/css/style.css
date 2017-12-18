@@ -2,6 +2,7 @@
 /* CSS Document */
 * {
 	background: black;
+	
 }
 .linktoApp {
 	color: aquamarine;
@@ -9,10 +10,33 @@
 	text-align: center;
 }
 
-.headline1 {
+h1 {
 	font-family: Verdana;
 	font-weight: normal;
 	font-size: 50px;
 	color: white;
 	text-align: center;
+}
+h2 {
+	font-family: Verdana;
+	font-weight: normal;
+	font-size: 42px;
+	color: white;
+	text-align: center;
+	
+}	
+h3 {
+	font-family: Verdana;
+	color: grey;
+	font-size: 21px;
+	text-aligh: center;
+	
+}
+
+.iPhoneVideo {
+	text-align: center;
+	
+}
+p {
+	text-aligh: center;
 }
