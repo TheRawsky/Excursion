@@ -10,11 +10,13 @@ body {
 h1 {
 	font-weight: normal;
 	font-size: 50px;
+	font-weight: bold;
 	
 }
 h2 {
 	font-size: 42px;
 	font-weight: 300;
+	font-weight: bold;
 	
 }	
 h3 {
@@ -26,7 +28,7 @@ h3 {
 .Copyright {
 	text-align: right;
 	color: grey;
-	font-size: 21;
+	font-size: 21px;
 }
 .linktoApp {
 	color: aquamarine;
